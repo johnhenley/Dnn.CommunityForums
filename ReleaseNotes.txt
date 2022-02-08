@@ -6,6 +6,14 @@
 	<h3><b>Community Forums</b> Module for DNN</h3>
 	<hr/>
 	<div class="dnnClear">
+		<h3>06.07.00</h3>
+		<h4>Features, Enhancements, and Bug Fixes</h4>
+		<ul>
+			<li>TBD</li>
+		</ul>
+
+		<p><strong>IMPORTANT NOTE:</strong>&nbsp; DO NOT add your own canonical tag to the page settings where this module is added.&nbsp; Remove it, if necessary, to prevent new SEO issues from impacting your website.</p>
+
 		<h3>06.06.00</h3>
 		<h4>Features, Enhancements, and Bug Fixes</h4>
 		<ul>
