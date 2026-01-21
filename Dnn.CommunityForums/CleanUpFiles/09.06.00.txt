@@ -1,0 +1,8 @@
+DesktopModules/ActiveForums/06.04.00.txt
+DesktopModules/ActiveForums/07.00.03.txt
+DesktopModules/ActiveForums/07.00.11.txt
+DesktopModules/ActiveForums/08.00.00.txt
+DesktopModules/ActiveForums/08.01.00.txt
+DesktopModules/ActiveForums/08.02.00.txt
+DesktopModules/ActiveForums/08.02.02.txt
+DesktopModules/ActiveForums/09.00.00.txt
